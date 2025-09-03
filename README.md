@@ -35,7 +35,7 @@ O **IniflexCLI** é uma aplicação de linha de comando voltada para a gestão d
 ## 🚀 Como Usar? 
 
 #### Pré-requisitos
-- Java JDK 8 ou superior instalado
+- Java JDK 24 (Versão utilizada no desenvolvimento)
 - Git instalado
 - Verifique com: java -version e javac -version
 
