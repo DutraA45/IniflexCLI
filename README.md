@@ -6,6 +6,17 @@
 
 O **IniflexCLI** é uma aplicação de linha de comando voltada para a gestão de funcionários, com foco em atender às demandas dos setores Financeiro e de Suprimentos em indústrias de diversos segmentos. 
 
+> **NOTA**
+> Este projeto foi desenvolvido com o objetivo de **colocar em prática o conhecimento já adquirido em Java**, **sem utilizar qualquer tipo de auxílio de inteligência artificial** ou bibliotecas externas que abstraiam conceitos fundamentais.  
+>  
+> A proposta é **testar a compreensão** e **identificar pontos de melhoria** no domínio da linguagem, com foco especial nos seguintes aspectos:
+> 
+> - ✅ Uso de **recursos básicos** da linguagem Java  
+> - ✅ Aplicação de **estruturas de controle** e **tipos primitivos**  
+> - ✅ Prática de **programação orientada a objetos (POO)** em sua forma mais essencial  
+> - ✅ Manipulação de coleções **nativas**
+
+
 ---
 
 ## 🔧 Funcionalidades  
