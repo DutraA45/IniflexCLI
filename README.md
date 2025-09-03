@@ -39,7 +39,7 @@ O **IniflexCLI** é uma aplicação de linha de comando voltada para a gestão d
 - Git instalado
 - Verifique com: java -version e javac -version
 
-#### Execução Direta pelo Terminal (Recomendado)
+#### Execução Direta pelo Terminal (Recomendado e testado)
 
 ```bash
 # 1. Clone o repositório
@@ -55,7 +55,7 @@ javac -d out src/*.java
 java -cp out Main
 ```
 
-#### IntelliJ IDEA (Recomendada)
+#### IntelliJ IDEA (Recomendado e testado)
 
 - Baixe e instale o IntelliJ IDEA Community (gratuito)
 - File → Open → Selecione a pasta do projeto
@@ -66,6 +66,15 @@ java -cp out Main
 - Execute:
   - Encontre a classe Main em src/
   - Execute a Main.java
+
+#### Para Outras IDEs
+
+Caso prefira utilizar outra IDE além do IntelliJ IDEA, consulte a documentação oficial do ambiente de sua escolha para instruções detalhadas sobre:
+
+- Como importar projetos Java existentes
+- Configuração do JDK 24
+- Compilação e execução de aplicações Java
+
 ---
 
 ## 📄 Licença  
